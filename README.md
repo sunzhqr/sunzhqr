@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />https://www.linkedin.com/in/sanzhar-myrzash-59aaa5271
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -53,15 +53,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorestframework/djangorestframework-original.svg" height="40" alt="drf logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiber/fiber-original.svg" height="40" alt="fiber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gorilla/gorilla-original.svg" height="40" alt="gorilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chi/chi-original.svg" height="40" alt="chi logo"  />
+  <!-- Django -->
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" alt="django logo" />
+  
+  <!-- Django Rest Framework (DRF) -->
+  <img src="https://www.django-rest-framework.org/img/logo.png" height="40" alt="drf logo" />
+  
+  <!-- Fiber -->
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" height="40" alt="fiber logo" />
+  
+  <!-- Chi -->
+  <img src="https://avatars.githubusercontent.com/u/489566?s=200&v=4" height="40" alt="chi logo" />
+  
+  <!-- Gorilla -->
+  <img src="https://camo.githubusercontent.com/500622bf4d425a2daf1733022fd10433e19689476c41aab806bd858733a1fa9b/68747470733a2f2f63646e2e7261776769742e636f6d2f676f2d6368692f6368692f6d61737465722f5f6578616d706c65732f6368692e737667" height="40" alt="gorilla logo" />
 </div>
 
 ###
