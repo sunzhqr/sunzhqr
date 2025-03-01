@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKOvTcw2GGlBkcev7kC1DFjaHWhHaVjURRQ&s" height="40" alt="flask logo"  />
   <img width="12" />
   <!-- Django -->
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" alt="django logo" />
